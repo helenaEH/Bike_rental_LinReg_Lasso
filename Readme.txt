@@ -1,7 +1,4 @@
-==========================================
-Bike Sharing Dataset
-==========================================
-
+# Project Bicycle 
 Hadi Fanaee-T
 
 Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
