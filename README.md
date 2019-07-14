@@ -6,8 +6,11 @@ Models used:
 * Mutiple Linear Regression
 * Regularized Linear Regression (Lasso)
 
-Importat coefficients summarized: 
-![](https://github.com/helenaEH/Bike_rental_LinReg_Lasso/blob/master/Plots/Result_Lasso.png)
+__Importat coefficients summarized:__
+![](https://github.com/helenaEH/Bike_rental_LinReg_Lasso/blob/master/Plots/Result_Lasso.png)   
 
-Summary of the Lasso Regression results: 
+  
+ &nbsp;    
+
+__Summary of the Lasso Regression results:__
 ![](https://github.com/helenaEH/Bike_rental_LinReg_Lasso/blob/master/Lasso_regression_result.png)
