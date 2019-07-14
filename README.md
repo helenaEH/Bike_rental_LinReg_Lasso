@@ -6,6 +6,8 @@ Models used:
 * Mutiple Linear Regression
 * Regularized Linear Regression (Lasso)
 
+Data source: https://www.kaggle.com/c/bike-sharing-demand/data
+
 __Importat coefficients summarized:__
 &nbsp; 
 ![](https://github.com/helenaEH/Bike_rental_LinReg_Lasso/blob/master/Plots/Result_Lasso.png)   
