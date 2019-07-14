@@ -6,7 +6,7 @@ Models used:
 * Mutiple Linear Regression
 * Regularized Linear Regression (Lasso)
 
-Data source: https://www.kaggle.com/c/bike-sharing-demand/data
+Data source: https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
 
 __Importat coefficients summarized:__
 &nbsp; 
